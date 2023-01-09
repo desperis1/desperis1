@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @desperis1
-- 👀 I’m interested in Offensive security,Minecraft Modding , Programing , Satisfactory modding, Game DEV, etc..
-- 🌱 I’m currently learning Cyber-security/Penetration Testing, programing, how to be dad...
-- 💞️ I’m looking to collaborate on some SatisfactoryMods some Minecraft Mods etc...
+- 👀 I’m Senior CyberSecurity Analyst, Hobby Security Engineer,i love  Programing ,Minecraft Modding, Game DEV, etc..
+- 🌱 I’m currently learning Malware Development, Malware analysis, Programing, GameDEV, how to be dad...
+- 💞️ I’m looking for: Nothing now ;)
 - 📫 How to reach me discord: dZ#0933
 
 <!---
