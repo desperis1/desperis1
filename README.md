@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @desperis1
 - 👀 I’m CyberSecurity Analyst, Hobby Security Engineer and Reseacher,I love  Programing ,Minecraft Modding, Game DEV, etc..
-- 🌱 I’m currently learning: OSCP, Malware Development, Malware analysis, Programing, GameDEV, how to be dad...
-- 💞️ I’m looking for: Nothing now ;)
+- 🌱 I’m currently learning: Reverse Engineering, Malware Development, Malware analysis, Programing, GameDEV, how to stay sane...
+- 💞️ I’m looking for: Time Machine
 - 📫 How to reach me discord: hi_im_dz (dZ#0933)
 
 <!---
